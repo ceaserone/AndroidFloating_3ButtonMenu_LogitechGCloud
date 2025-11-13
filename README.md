@@ -1,8 +1,8 @@
-<h1 align="center">SynAck Menu — Logitech G Cloud Floating Navigation</h1>
+<h1 align="center">Android Floating Menu!</h1>
 
 <p align="center">
-  <b>Floating Back / Home / Recents buttons for the Logitech G Cloud.</b><br>
-  Fixes the missing 3-button navigation bar for emulators, games, and full-screen apps.
+  <b>Floating Back / Home / Recents buttons for android! Built for the Logitech G Cloud.</b><br>
+  Fixes the missing 3-button navigation bar Logitech G Cloud has removed.
 </p>
 
 <p align="center">
@@ -17,26 +17,26 @@
 
 ---
 
-## 🕹 What is SynAck Menu?
+## 🕹 What is Android Menu?
 
-**SynAck Menu** is a small Android overlay app that adds a floating bubble with:
+**"SynAck Menu"** is a small Android overlay app that adds a floating bubble with:
 
 - **Back**
 - **Home**
 - **Recents**
 
-It was built specifically for the **Logitech G Cloud**, which does **not** have the standard 3-button navigation bar.  
-This app gives you those buttons back, as a movable, theme-matched, neon bubble.
+It was built specifically for the **Logitech G Cloud**, which does **not** have the standard 3-button navigation bar in there firmware.  
+This app gives you those buttons back, as a movable, theme-matched, neon bubble. (you must enable multi running apps in the G Cloud, dont forget) This also works for any android system obviously.
 
 Works great for:
 
-- **Dolphin Emulator** – hide the on-screen controller but still get Back/Home/Recents  
+- **Dolphin Emulator** – hide the on-screen controller, Back/Home/Recents is needed to do this...
 - **Strato / AetherSX2** – full-screen PS2/Switch emulation with a way to exit menus  
 - **RetroArch / Lemuroid** – no more getting stuck in cores or settings  
 - Full-screen Android games that hide navigation  
 - Browser/launcher setups where gesture nav is flaky or disabled  
 
-No root. No system modifications. Just install the APK, grant permissions, and go.
+No root. No ads. No shit! Just install the APK, grant permissions, and go.
 
 ---
 
@@ -60,8 +60,7 @@ No root. No system modifications. Just install the APK, grant permissions, and g
 ---
 
 ## ✨ Features
-
-- 🟣 **SynAck neon theme**  
+  
 - 🟦 **Floating draggable bubble** that stays above apps  
 - 🔲 **Back / Home / Recents** available everywhere  
 - 🎮 Tuned for **Logitech G Cloud** handheld  
@@ -89,9 +88,8 @@ You can download it directly from the GitHub repo’s file list or via the link 
 4. On the setup screen, grant:
    - **Overlay / Draw over apps**
    - **Accessibility Service**
+   - **YOU MIGHT NEED TO ENABLE RESTRICTED ACCESS!|UNDER APPS->menu.apk->too right 3 dots->enable restricted access..under new android OS this is required.**
    - (Optional) **Ignore battery optimizations**
-
-3 button top left in apps allow restricted setings
 
 5. Tap **Start Menu**.
 
@@ -102,13 +100,6 @@ You’ll now see a small floating bubble:
 - Tap again or outside the panel to collapse.
 
 ---
-
-## 🔐 Privacy
-
-- No account required  
-- No analytics SDK  
-- No personal data collection  
-- No network calls for tracking or ads  
 
 The app is designed to run locally and simply provide navigation buttons.
 
