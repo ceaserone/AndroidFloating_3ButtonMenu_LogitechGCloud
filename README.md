@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="images/setup.jpg" alt="SynAck Menu Setup" width="75%">
+  <img src="setup.jpg" alt="SynAck Menu Setup" width="75%">
 </p>
 
 <p align="center">
@@ -44,17 +44,17 @@ No root. No ads. No shit! Just install the APK, grant permissions, and go.
 
 ### Setup Screen
 <p align="center">
-  <img src="images/setup.jpg" alt="SynAck Menu Setup" width="75%">
+  <img src="setup.jpg" alt="SynAck Menu Setup" width="75%">
 </p>
 
 ### Floating Menu (Collapsed)
 <p align="center">
-  <img src="images/menu.jpg" alt="SynAck Menu Bubble" width="75%">
+  <img src="menu.jpg" alt="SynAck Menu Bubble" width="75%">
 </p>
 
 ### Floating Menu (Expanded)
 <p align="center">
-  <img src="images/menu2.jpg" alt="SynAck Menu Expanded" width="75%">
+  <img src="menu2.jpg" alt="SynAck Menu Expanded" width="75%">
 </p>
 
 ---
